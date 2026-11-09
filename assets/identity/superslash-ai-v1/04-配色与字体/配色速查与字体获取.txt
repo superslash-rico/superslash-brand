@@ -1,0 +1,27 @@
+﻿超级斜杠AI · 配色与字体
+
+色值采用 sRGB HEX。
+原斜杠渐变  #E802F8 → #3C00BE（由左到右）
+彩色浅底文字  #000000
+彩色深底文字  #FFFFFF
+头像和预览深底  #14111C
+
+AI 主笔画均由上至下渐变。
+
+彩色浅底
+A  0% #DB5A0C  /  28% #EA4160  /  54% #B329D4  /  89% #5638E9
+I  0% #00889C  /  30% #0081CB  /  60% #3A57E5  /  89% #5638E9
+火点  #D65711  #C038AE  #008897  #007DB7  #2D55DD  #0573CF
+
+彩色深底
+A  0% #FF9A4C  /  28% #FF6687  /  54% #CC53EC  /  89% #7882FF
+I  0% #46E2D7  /  30% #2CB8F3  /  60% #6092FF  /  89% #7882FF
+火点  #FFA050  #EE66CB  #47E1D6  #32C5ED  #6F98FF  #4DAAFF
+
+品牌字体  MiSans
+大标题 Bold，层级标题 Medium，正文 Regular。
+MiSans 由小米提供。字体文件请从官方下载。
+https://hyperos.mi.com/font/details/sc
+
+MiSans 许可与下载页
+https://hyperos.mi.com/font/download

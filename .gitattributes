@@ -1,0 +1,9 @@
+# Asset checksums are byte-for-byte.
+assets/** -text
+*.pdf binary
+*.docx binary
+*.pptx binary
+*.png binary
+*.jpeg binary
+*.jpg binary
+*.webp binary

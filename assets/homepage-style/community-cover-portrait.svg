@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1697" viewBox="0 0 1200 1697">
+<title>超级斜杠AI · 官网社区风格封面背景</title>
+<defs>
+  <radialGradient id="light-core" cx=".49" cy=".30" r=".68">
+    <stop stop-color="#FFFDFB" stop-opacity=".9"/>
+    <stop offset="1" stop-color="#FFFDFB" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="blue-haze" cx=".90" cy=".72" r=".52">
+    <stop stop-color="#E1E9FD" stop-opacity=".74"/>
+    <stop offset="1" stop-color="#E1E9FD" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="lavender-haze" cx=".05" cy=".68" r=".56">
+    <stop stop-color="#EAE1F8" stop-opacity=".66"/>
+    <stop offset="1" stop-color="#EAE1F8" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="community-dots" width="15" height="15" patternUnits="userSpaceOnUse">
+    <circle cx="7.5" cy="7.5" r=".78" fill="#9E91B5" fill-opacity=".18"/>
+  </pattern>
+</defs>
+<rect width="1200" height="1697" fill="#F7F4FF"/>
+<rect width="1200" height="1697" fill="url(#light-core)"/>
+<rect width="1200" height="1697" fill="url(#blue-haze)"/>
+<rect width="1200" height="1697" fill="url(#lavender-haze)"/>
+<rect width="1200" height="1697" fill="url(#community-dots)"/>
+<ellipse cx="168.0" cy="-390.3" rx="408.0" ry="882.4" fill="none" stroke="#AA98C9" stroke-opacity=".27" stroke-width="1.35" transform="rotate(-16 168.0 -390.3)"/>
+<ellipse cx="1092.0" cy="1357.6" rx="492.0" ry="356.4" fill="none" stroke="#AA98C9" stroke-opacity=".23" stroke-width="1.2" transform="rotate(-15 1092.0 1357.6)"/>
+<ellipse cx="636.0" cy="1680.0" rx="696.0" ry="322.4" fill="#EAE1F8" fill-opacity=".67" stroke="#C7B4E5" stroke-opacity=".42" stroke-width="1.15" stroke-dasharray="3 5" transform="rotate(-3 636.0 1680.0)"/>
+</svg>

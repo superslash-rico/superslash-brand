@@ -1,0 +1,192 @@
+{
+  "schema_version": 1,
+  "verified_on": "2026-11-09",
+  "brand_name": "超级斜杠AI",
+  "company_name": "合肥超级斜杠网络科技有限公司",
+  "domain": "slashx.cn",
+  "website": "https://slashx.cn",
+  "contact": {
+    "email": "rico@ricoxueai.cn",
+    "phone": "15556933217",
+    "wechat": "ricoxueai",
+    "address": "安徽省合肥市包河区花园大道荣信商务中心A座908",
+    "qr_url": "https://work.weixin.qq.com/ct/wcde52d15e56cd20aab9823eadbb549f7c51",
+    "confirmed_in_user_session": "2026-10-05 through 2026-10-07"
+  },
+  "official_palette": {
+    "black": "#000000",
+    "blue": "#3C00BE",
+    "purple": "#E802F8"
+  },
+  "editorial_palette": {
+    "graphite": "#15191E",
+    "paper": "#FBF9FF",
+    "ink": "#2E2544",
+    "muted": "#6D6780",
+    "rule": "#E5DEED",
+    "pale_blue": "#F0F5FF",
+    "white": "#FFFFFF"
+  },
+  "fonts": {
+    "family": "MiSans",
+    "regular": "fonts/MiSans-Regular.ttf",
+    "medium": "fonts/MiSans-Medium.ttf",
+    "semibold": "fonts/MiSans-Semibold.ttf",
+    "bold": "fonts/MiSans-Bold.ttf"
+  },
+  "logos": {
+    "dark_on_light": "identity/superslash-ai-v1/01-主标志/透明PNG/1800px/超级斜杠AI-彩色浅底-1800px.png",
+    "light_on_dark": "identity/superslash-ai-v1/01-主标志/透明PNG/1800px/超级斜杠AI-彩色深底-1800px.png",
+    "symbol": "logos/symbol.png",
+    "mono_black": "identity/superslash-ai-v1/01-主标志/透明PNG/1800px/超级斜杠AI-单色黑-1800px.png",
+    "mono_white": "identity/superslash-ai-v1/01-主标志/透明PNG/1800px/超级斜杠AI-单色白-1800px.png"
+  },
+  "assets": {
+    "qr": "contact/wechat.png",
+    "portrait_original": "portraits/rico-original.jpeg",
+    "portrait_cutout": "portraits/rico-approved-cutout.png",
+    "manual": "identity/superslash-ai-v1/00-品牌使用手册.pdf"
+  },
+  "formats": {
+    "a4_portrait": {
+      "width_pt": 595.275591,
+      "height_pt": 841.889764,
+      "margin_pt": 56.692913
+    },
+    "a4_landscape": {
+      "width_pt": 841.889764,
+      "height_pt": 595.275591,
+      "margin_pt": 51.023622
+    },
+    "slide_16_9": {
+      "width_pt": 960,
+      "height_pt": 540,
+      "margin_pt": 48,
+      "width_px": 1280,
+      "height_px": 720
+    }
+  },
+  "course_authority": "https://ricoxueai.feishu.cn/sheets/ZgVMsGrEXhHPBot6ifochp7LnJe?sheet=QbbuHQ",
+  "templates": {
+    "proposal_pdf": "templates/客户方案-A4.pdf",
+    "internal_docx": "templates/内部报告-A4.docx",
+    "presentation_pptx": "templates/汇报演示-16比9.pptx",
+    "presentation_dark_pptx": "templates/客户汇报-16比9-深色.pptx",
+    "presentation_dark_pdf": "templates/客户汇报-16比9-深色.pdf"
+  },
+  "limitations": [
+    "Contact details are user-confirmed, not live-synced.",
+    "No frozen curriculum counts, schedules, prices or operating figures.",
+    "Cutout was AI-produced and approved for prior marketing; original is preferred for documentary use."
+  ],
+  "emphasis": {
+    "color": "#E802F8",
+    "confirmed_on": "2026-10-07",
+    "uses": [
+      "key conclusions",
+      "important numbers",
+      "action items",
+      "attention labels"
+    ],
+    "light_background": "large/bold text or colored underline",
+    "dark_background": "brand-magenta text with typographic hierarchy"
+  },
+  "presentation_themes": {
+    "light": {
+      "background": "#FBF9FF",
+      "foreground": "#2E2544",
+      "emphasis": "#E802F8",
+      "surface": "#FFFEFD"
+    },
+    "dark": {
+      "background": "#15191E",
+      "foreground": "#F6F7FB",
+      "body": "#CFD3DA",
+      "muted": "#A6AEBB",
+      "surface": "#20252D",
+      "emphasis": "#E802F8"
+    }
+  },
+  "legacy_identity": {
+    "brand_name": "超级斜杠",
+    "logos": {
+      "dark_on_light": "logos/dark-on-light.png",
+      "light_on_dark": "logos/light-on-dark.png",
+      "symbol": "logos/symbol.png"
+    },
+    "manual": "source/品牌手册.pdf"
+  },
+  "brand_identity": {
+    "version": "v1.0",
+    "approved_on": "2026-11-09",
+    "design": "A 横画一体延伸 · I 上扬火苗 · 06B 蓝紫收底",
+    "asset_root": "identity/superslash-ai-v1",
+    "svg": {
+      "dark_on_light": "identity/superslash-ai-v1/01-主标志/矢量SVG/超级斜杠AI-彩色浅底.svg",
+      "light_on_dark": "identity/superslash-ai-v1/01-主标志/矢量SVG/超级斜杠AI-彩色深底.svg",
+      "mono_black": "identity/superslash-ai-v1/01-主标志/矢量SVG/超级斜杠AI-单色黑.svg",
+      "mono_white": "identity/superslash-ai-v1/01-主标志/矢量SVG/超级斜杠AI-单色白.svg"
+    },
+    "pdf": {
+      "dark_on_light": "identity/superslash-ai-v1/01-主标志/矢量PDF/超级斜杠AI-彩色浅底.pdf",
+      "light_on_dark": "identity/superslash-ai-v1/01-主标志/矢量PDF/超级斜杠AI-彩色深底.pdf",
+      "mono_black": "identity/superslash-ai-v1/01-主标志/矢量PDF/超级斜杠AI-单色黑.pdf",
+      "mono_white": "identity/superslash-ai-v1/01-主标志/矢量PDF/超级斜杠AI-单色白.pdf"
+    },
+    "standalone_ai_svg": {
+      "dark_on_light": "identity/superslash-ai-v1/02-AI独立字形/矢量SVG/超级斜杠AI-AI字形-浅底.svg",
+      "light_on_dark": "identity/superslash-ai-v1/02-AI独立字形/矢量SVG/超级斜杠AI-AI字形-深底.svg"
+    },
+    "avatars": {
+      "dark_on_light": "identity/superslash-ai-v1/03-方形头像/PNG/超级斜杠AI-方形头像-浅底-1080px.png",
+      "light_on_dark": "identity/superslash-ai-v1/03-方形头像/PNG/超级斜杠AI-方形头像-深底-1080px.png"
+    },
+    "palette_and_fonts": "identity/superslash-ai-v1/04-配色与字体/配色速查与字体获取.txt"
+  },
+  "homepage_style": {
+    "source_url": "https://www.slashx.cn/",
+    "observed_on": "2026-11-09",
+    "variant": "community",
+    "hero_concept": "d",
+    "reference": "references/homepage-style.md",
+    "application_reference": "homepage-style/application-reference.png",
+    "palette": {
+      "hero_background": "#F7F4FF",
+      "reading_background": "#FBF9FF",
+      "section_background": "#F3EFF9",
+      "practice_background": "#F0F5FF",
+      "card_surface": "#FFFEFD",
+      "ink": "#2E2544",
+      "heading": "#38254F",
+      "muted": "#6D6780",
+      "rule": "#E5DEED",
+      "label_fill": "#F1EAFA",
+      "label_ink": "#7754A4",
+      "label_line": "#E4D8F5",
+      "action_purple": "#8417DE",
+      "action_blue": "#315CCC",
+      "action_plum": "#654098",
+      "orbit": "#AA98C9",
+      "dots": "#9E91B5",
+      "platform_fill": "#EAE1F8",
+      "platform_border": "#C7B4E5",
+      "soft_blue": "#E8F0FF"
+    },
+    "backdrops": {
+      "wide": {
+        "svg": "homepage-style/community-cover-wide.svg",
+        "png": "homepage-style/community-cover-wide.png"
+      },
+      "portrait": {
+        "svg": "homepage-style/community-cover-portrait.svg",
+        "png": "homepage-style/community-cover-portrait.png"
+      }
+    },
+    "scenes": {
+      "workshop": "homepage-style/scenes/community-home-workshop-v1.webp",
+      "creative": "homepage-style/scenes/creative-studio-fashion-v2.webp",
+      "outdoors": "homepage-style/scenes/weekend-outdoors-fashion-v2.webp",
+      "cafe": "homepage-style/scenes/cafe-collaboration-fashion-v2.webp"
+    }
+  }
+}

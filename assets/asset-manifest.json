@@ -1,0 +1,592 @@
+{
+  "schema_version": 1,
+  "files": [
+    {
+      "path": "logos/dark-on-light.png",
+      "bytes": 518706,
+      "sha256": "9f329b416db7ea09814df3f9aff1d92eae4c7344f694c5b3777b3e3fe5bb472d",
+      "provenance": "品牌物料/超级斜杠LOGO图片/Logo-SuperSlash.png",
+      "source_kind": "user-supplied",
+      "image_size": [
+        5513,
+        1313
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "logos/light-on-dark.png",
+      "bytes": 566889,
+      "sha256": "91bce0f76afe7295954e30a78ff08b40def10ccc6a240dd8a46f003919146b73",
+      "provenance": "品牌物料/超级斜杠LOGO图片/公司logo.png",
+      "source_kind": "user-supplied",
+      "image_size": [
+        5513,
+        1313
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "logos/symbol.png",
+      "bytes": 55245,
+      "sha256": "4adcf1b22e0288b80dc2d18be492045017c3817cca0bd500ea16a76622f367f1",
+      "provenance": "品牌物料/超级斜杠LOGO图片/超级斜杠logo.png",
+      "source_kind": "user-supplied",
+      "image_size": [
+        1000,
+        1000
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "contact/wechat.png",
+      "bytes": 30994,
+      "sha256": "77ca8dfcdbffa2a4a8bbd2489d225ac7e150b29a602a65089b831042c4955eff",
+      "provenance": "品牌物料/联系二维码/微信-ricoxueai.png",
+      "source_kind": "user-supplied",
+      "image_size": [
+        396,
+        396
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "portraits/rico-original.jpeg",
+      "bytes": 85965,
+      "sha256": "a85ef497c16a25307b15b0b6ad412030d7029e27879d0ab1f2138a1908518f23",
+      "provenance": "品牌物料/讲师照片/Rico形象照.jpeg",
+      "source_kind": "user-supplied",
+      "image_size": [
+        724,
+        1086
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "portraits/rico-approved-cutout.png",
+      "bytes": 1437980,
+      "sha256": "d034c51dad988c0859f761a22414ddc1454611c3dc0e3de91a1a84b5e83329f9",
+      "provenance": "品牌物料/讲师照片/Rico形象照-透明-v1.png",
+      "source_kind": "previously-approved-generated-asset",
+      "image_size": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "source/rico-bio-supplied.md",
+      "bytes": 830,
+      "sha256": "49fcbd89a13c97f589b82adaf6548da0e16534757605f8e4d322616fb06a3389",
+      "provenance": "品牌物料/讲师照片/Rico讲师介绍.md",
+      "source_kind": "user-supplied"
+    },
+    {
+      "path": "source/品牌手册.pdf",
+      "bytes": 734135,
+      "sha256": "e9f16d40dd28f7a4294fd7753c65463c5e56f57db5e5c7a29f7a0116abcb1477",
+      "provenance": "品牌物料/超级斜杠品牌手册-2508.pdf",
+      "source_kind": "user-supplied"
+    },
+    {
+      "path": "design-reference/课程总览主题图.png",
+      "bytes": 1994755,
+      "sha256": "a550852a49759298aff28ffd49367b7b7d1d04594120c1dab29efa32c0db7fe8",
+      "provenance": "课程宣传资料/封面素材/00-AI培训课程体系-主视觉-v1.png",
+      "source_kind": "previously-approved-generated-asset",
+      "image_size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "design-reference/课程封面.png",
+      "bytes": 643319,
+      "sha256": "744b6274235f13816252b170391d5761803bdd0a1bbe578f1c481d7703c58ae2",
+      "source_kind": "rendered-approved-reference",
+      "source_pdf": "output/课程介绍/超级斜杠-01-AI认知提升-课程介绍.pdf",
+      "source_page": 1,
+      "source_sha256": "1ac539fef0d8f3b71b3d5257c651e6785af38150b00e500fae4b3cfadc18963c"
+    },
+    {
+      "path": "design-reference/课程阅读页.png",
+      "bytes": 202780,
+      "sha256": "2970df173d9b719612fe9ab82265ebf21fec5cf6fd2f10c1e19b32156dd4c90d",
+      "source_kind": "rendered-approved-reference",
+      "source_pdf": "output/课程介绍/超级斜杠-01-AI认知提升-课程介绍.pdf",
+      "source_page": 5,
+      "source_sha256": "1ac539fef0d8f3b71b3d5257c651e6785af38150b00e500fae4b3cfadc18963c"
+    },
+    {
+      "path": "design-reference/课程尾页.png",
+      "bytes": 349589,
+      "sha256": "3095af38d4d0e82d74a01f898beb22101f59207acb1ed680f07aef99f485330e",
+      "source_kind": "rendered-approved-reference",
+      "source_pdf": "output/课程介绍/超级斜杠-01-AI认知提升-课程介绍.pdf",
+      "source_page": 10,
+      "source_sha256": "1ac539fef0d8f3b71b3d5257c651e6785af38150b00e500fae4b3cfadc18963c"
+    },
+    {
+      "path": "design-reference/课程海报.png",
+      "bytes": 1889944,
+      "sha256": "070d943d20dbf260e0cb25d4f637b7ad4a3736548e09c924500428a562d927b3",
+      "source_kind": "approved-final-poster",
+      "provenance": "output/海报/超级斜杠-01-AI认知提升-课程海报.png"
+    },
+    {
+      "path": "templates/汇报演示-16比9.pptx",
+      "bytes": 4291921,
+      "sha256": "fb966ee58f6e9fd761538fb405bb82ccb92fdfa43bb91ad62cdecdea61f025c1",
+      "source_kind": "generated-and-verified-layout-reference",
+      "contains_sample_content": true
+    },
+    {
+      "path": "templates/内部报告-A4.docx",
+      "bytes": 503141,
+      "sha256": "3f9c401a72f987ae444fc4e2f7876d4707001bfd41c448bf1f635c5a228c1ab8",
+      "source_kind": "generated-and-verified-layout-reference",
+      "contains_sample_content": true
+    },
+    {
+      "path": "templates/客户方案-A4.pdf",
+      "bytes": 4223263,
+      "sha256": "ec8bbf9032516b22b42f6e57d5cca41a7f88aab61a70047239b9b6d6b34fd6b1",
+      "source_kind": "generated-and-verified-layout-reference",
+      "contains_sample_content": true
+    },
+    {
+      "path": "design-reference/客户汇报-横版主视觉.png",
+      "bytes": 1897210,
+      "sha256": "d3933f56917a76e64f3316a0fdded5fa801494df390bdc2194bf798c2a2c21a9",
+      "source_kind": "generated-wide-marketing-art"
+    },
+    {
+      "path": "design-reference/客户汇报-横版主视觉.prompt.txt",
+      "bytes": 1761,
+      "sha256": "5c14cfce3e7d77eb67479d371ec0961dce0408b1fdb33e8f118d278a6deb6cda",
+      "source_kind": "generation-prompt"
+    },
+    {
+      "path": "templates/客户汇报-16比9-深色.pptx",
+      "bytes": 8034075,
+      "sha256": "38b55217143fd582be8a2b165443d3bf62d1cb3b20491749d623591387057ccf",
+      "source_kind": "generated-and-verified-layout-reference"
+    },
+    {
+      "path": "templates/客户汇报-16比9-深色.pdf",
+      "bytes": 614934,
+      "sha256": "019cbc73383de94c6bfa8a86d53035085bc0c344d0be8415e3468bc41b766313",
+      "source_kind": "verified-presentation-pdf-reference"
+    },
+    {
+      "path": "identity/superslash-ai-v1/00-从这里开始.txt",
+      "bytes": 630,
+      "sha256": "73228334e9239f36e41737bb2d13ffd991e792d7245ce0db390937d4dc500589",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/00-从这里开始.txt",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "identity/superslash-ai-v1/00-品牌使用手册.pdf",
+      "bytes": 412763,
+      "sha256": "0115f0f89454f9370c735b8b637fe950f6eef8245ca9fc8847967991994559e0",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/00-品牌使用手册.pdf",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "identity/superslash-ai-v1/01-主标志/矢量PDF/超级斜杠AI-单色白.pdf",
+      "bytes": 3310,
+      "sha256": "a781033077b73bce7f9116e4a5efde061f9b04bcfd816d9ceeecae2b706ed0dc",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/01-主标志/矢量PDF/超级斜杠AI-单色白.pdf",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "identity/superslash-ai-v1/01-主标志/矢量PDF/超级斜杠AI-单色黑.pdf",
+      "bytes": 3308,
+      "sha256": "8e8cb8d5a7cd3d4566ff4d507708b8ae12fecc4463dc50e4cd656af70a65f3b7",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/01-主标志/矢量PDF/超级斜杠AI-单色黑.pdf",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "identity/superslash-ai-v1/01-主标志/矢量PDF/超级斜杠AI-彩色浅底.pdf",
+      "bytes": 5669,
+      "sha256": "9fbb97aaac84faa1e22a5d37580d862d6694f12f2addda2fafb1b67a9a1c15cb",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/01-主标志/矢量PDF/超级斜杠AI-彩色浅底.pdf",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "identity/superslash-ai-v1/01-主标志/矢量PDF/超级斜杠AI-彩色深底.pdf",
+      "bytes": 5615,
+      "sha256": "924fcfc65b80df4f168862ef7e5732a4d80a9f3bef99fbee03b58f2c30122d8c",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/01-主标志/矢量PDF/超级斜杠AI-彩色深底.pdf",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "identity/superslash-ai-v1/01-主标志/矢量SVG/超级斜杠AI-单色白.svg",
+      "bytes": 7541,
+      "sha256": "3b784882c5d177c9d19159894a5c4fd1da5660b0f0deff764a5a34be1fa77a52",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/01-主标志/矢量SVG/超级斜杠AI-单色白.svg",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "identity/superslash-ai-v1/01-主标志/矢量SVG/超级斜杠AI-单色黑.svg",
+      "bytes": 7541,
+      "sha256": "8d6995e1946fb9f20f1275ddaaedd27da8c20e76f2afd49afc3082d7c93c63c6",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/01-主标志/矢量SVG/超级斜杠AI-单色黑.svg",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "identity/superslash-ai-v1/01-主标志/矢量SVG/超级斜杠AI-彩色浅底.svg",
+      "bytes": 8115,
+      "sha256": "89be3cbd0c681f0ea016c3564c22b659131c8b89aa653a9424b0cfaad967b1ce",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/01-主标志/矢量SVG/超级斜杠AI-彩色浅底.svg",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "identity/superslash-ai-v1/01-主标志/矢量SVG/超级斜杠AI-彩色深底.svg",
+      "bytes": 8111,
+      "sha256": "56be28d85ae5ba7e444737ae05ae03c4a1c8d1c09b440d8efd8de1a6c999d1b0",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/01-主标志/矢量SVG/超级斜杠AI-彩色深底.svg",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "identity/superslash-ai-v1/01-主标志/透明PNG/1800px/超级斜杠AI-单色白-1800px.png",
+      "bytes": 29474,
+      "sha256": "b7e7213b83f94f1737620a972dd9868acad74253501b2f5a66b33777dd95d2ee",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/01-主标志/透明PNG/1800px/超级斜杠AI-单色白-1800px.png",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "identity/superslash-ai-v1/01-主标志/透明PNG/1800px/超级斜杠AI-单色黑-1800px.png",
+      "bytes": 27117,
+      "sha256": "201c39dfb962efdee31c7a3d6482d4aef6ae57ecdbdd36f042a834d3c88ca875",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/01-主标志/透明PNG/1800px/超级斜杠AI-单色黑-1800px.png",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "identity/superslash-ai-v1/01-主标志/透明PNG/1800px/超级斜杠AI-彩色浅底-1800px.png",
+      "bytes": 34311,
+      "sha256": "8f4e0c7d180bf43e606a43c09cddb521b7c3179cc6a6a14a58b0a250f85ee948",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/01-主标志/透明PNG/1800px/超级斜杠AI-彩色浅底-1800px.png",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "identity/superslash-ai-v1/01-主标志/透明PNG/1800px/超级斜杠AI-彩色深底-1800px.png",
+      "bytes": 35257,
+      "sha256": "d667a7fe37df9ba187449f1325337083836e8bac846dd98d63135633aa1c4b89",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/01-主标志/透明PNG/1800px/超级斜杠AI-彩色深底-1800px.png",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "identity/superslash-ai-v1/01-主标志/透明PNG/3600px/超级斜杠AI-单色白-3600px.png",
+      "bytes": 64443,
+      "sha256": "e9117ec0cea6c080ebb447577b45bbdc61236ee1d82fbf4c870d9eb8f6cc8caa",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/01-主标志/透明PNG/3600px/超级斜杠AI-单色白-3600px.png",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "identity/superslash-ai-v1/01-主标志/透明PNG/3600px/超级斜杠AI-单色黑-3600px.png",
+      "bytes": 59644,
+      "sha256": "b5819d23c0f5e1b0162ca624217486c2306e3349e5e12a333322e2b701373e37",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/01-主标志/透明PNG/3600px/超级斜杠AI-单色黑-3600px.png",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "identity/superslash-ai-v1/01-主标志/透明PNG/3600px/超级斜杠AI-彩色浅底-3600px.png",
+      "bytes": 72153,
+      "sha256": "126329640ae29b1f1b3641c4bb3aa468c504a1a7e3e86fb5b44982ca6af4e248",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/01-主标志/透明PNG/3600px/超级斜杠AI-彩色浅底-3600px.png",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "identity/superslash-ai-v1/01-主标志/透明PNG/3600px/超级斜杠AI-彩色深底-3600px.png",
+      "bytes": 74552,
+      "sha256": "1ccf74b72ad04d67d451c0c786ad42e2d18ed3b0e0b368e1bec3f764a069ef69",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/01-主标志/透明PNG/3600px/超级斜杠AI-彩色深底-3600px.png",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "identity/superslash-ai-v1/01-主标志/透明PNG/600px/超级斜杠AI-单色白-600px.png",
+      "bytes": 9761,
+      "sha256": "0fee428d13d8e525170c6cd4f1aa23c76466f932a3bdee5330857c2e7ffdcf7e",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/01-主标志/透明PNG/600px/超级斜杠AI-单色白-600px.png",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "identity/superslash-ai-v1/01-主标志/透明PNG/600px/超级斜杠AI-单色黑-600px.png",
+      "bytes": 8918,
+      "sha256": "8fdc094a5c3d08179025b6e6a9f4a7b51c0cf8484b592ce436ccda649299cfba",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/01-主标志/透明PNG/600px/超级斜杠AI-单色黑-600px.png",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "identity/superslash-ai-v1/01-主标志/透明PNG/600px/超级斜杠AI-彩色浅底-600px.png",
+      "bytes": 11851,
+      "sha256": "c7ac0470d678ed079e4a2d412739cd7ca75086bee1257f6a1de0dfe9a742321a",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/01-主标志/透明PNG/600px/超级斜杠AI-彩色浅底-600px.png",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "identity/superslash-ai-v1/01-主标志/透明PNG/600px/超级斜杠AI-彩色深底-600px.png",
+      "bytes": 12246,
+      "sha256": "416505727f0d102bd418ff3baac491c5c64798987e71acb9f4f6659d11c598a9",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/01-主标志/透明PNG/600px/超级斜杠AI-彩色深底-600px.png",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "identity/superslash-ai-v1/02-AI独立字形/矢量SVG/超级斜杠AI-AI字形-浅底.svg",
+      "bytes": 1974,
+      "sha256": "3f369c5dc96508494b4492de38c68c266e19eab74b34b8b7b419b1fae1c229d9",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/02-AI独立字形/矢量SVG/超级斜杠AI-AI字形-浅底.svg",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "identity/superslash-ai-v1/02-AI独立字形/矢量SVG/超级斜杠AI-AI字形-深底.svg",
+      "bytes": 1970,
+      "sha256": "3894f6921a441f521d458c870351d2c01de3a7d0bffc46cb422567d0a1a66d16",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/02-AI独立字形/矢量SVG/超级斜杠AI-AI字形-深底.svg",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "identity/superslash-ai-v1/02-AI独立字形/透明PNG/超级斜杠AI-AI字形-浅底-1200px.png",
+      "bytes": 19549,
+      "sha256": "ab6f857f650d301bec7ad68649a11416505ce74400a9d96fec355244b1256ddc",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/02-AI独立字形/透明PNG/超级斜杠AI-AI字形-浅底-1200px.png",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "identity/superslash-ai-v1/02-AI独立字形/透明PNG/超级斜杠AI-AI字形-深底-1200px.png",
+      "bytes": 19099,
+      "sha256": "145b38b59b8774cd5d57f111edc9b8f9d1a41c67bc70f7e6b4b0d04342b4ec4b",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/02-AI独立字形/透明PNG/超级斜杠AI-AI字形-深底-1200px.png",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "identity/superslash-ai-v1/03-方形头像/PNG/超级斜杠AI-方形头像-浅底-1080px.png",
+      "bytes": 17175,
+      "sha256": "c1d72e9c0da53ff6eeb1c133849f12d5131a24f18f3b13149b987e0c985d316b",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/03-方形头像/PNG/超级斜杠AI-方形头像-浅底-1080px.png",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "identity/superslash-ai-v1/03-方形头像/PNG/超级斜杠AI-方形头像-浅底-512px.png",
+      "bytes": 8703,
+      "sha256": "8dee525230adb7dad89fed64b9a6d5d4253af66ab5dccbc95419401aa50823f1",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/03-方形头像/PNG/超级斜杠AI-方形头像-浅底-512px.png",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "identity/superslash-ai-v1/03-方形头像/PNG/超级斜杠AI-方形头像-深底-1080px.png",
+      "bytes": 17107,
+      "sha256": "fef0bd697a2555221ef9c56c04b8976cb619d4fdc1bd163183917534ad5cec19",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/03-方形头像/PNG/超级斜杠AI-方形头像-深底-1080px.png",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "identity/superslash-ai-v1/03-方形头像/PNG/超级斜杠AI-方形头像-深底-512px.png",
+      "bytes": 8809,
+      "sha256": "b91c85c79e1660bb8d865ce39d1177707cfb2b331ab9c93422415a06b6a488f7",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/03-方形头像/PNG/超级斜杠AI-方形头像-深底-512px.png",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "identity/superslash-ai-v1/03-方形头像/矢量SVG/超级斜杠AI-方形头像-浅底.svg",
+      "bytes": 2051,
+      "sha256": "72a7b3ae1716c0e9bb839cb59d9ece0ecf19141d8fe5e39a0ad743d90a0ad174",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/03-方形头像/矢量SVG/超级斜杠AI-方形头像-浅底.svg",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "identity/superslash-ai-v1/03-方形头像/矢量SVG/超级斜杠AI-方形头像-深底.svg",
+      "bytes": 2047,
+      "sha256": "c87c64631ec204270c14aff9352f688758cfd12ce971ee8e6c589d2a4202c97a",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/03-方形头像/矢量SVG/超级斜杠AI-方形头像-深底.svg",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "identity/superslash-ai-v1/04-配色与字体/配色速查与字体获取.txt",
+      "bytes": 882,
+      "sha256": "9ec6f9e8557f85d9ec982d931462c20e92798ff63cf021d20f9c8aa44996695d",
+      "provenance": "超级斜杠AI-品牌资料包-v1.0.zip!/超级斜杠AI品牌资料包-v1.0/04-配色与字体/配色速查与字体获取.txt",
+      "source_kind": "user-approved-brand-kit",
+      "approved_on": "2026-11-09"
+    },
+    {
+      "path": "homepage-style/application-reference.png",
+      "bytes": 1021787,
+      "sha256": "b1a332ea43420ecfb3345eada8df40c242312b11b2c8e667f69a2a412a39e75d",
+      "source_url": "https://www.slashx.cn/",
+      "observed_on": "2026-11-09",
+      "source_kind": "rendered-cross-format-reference",
+      "provenance": "按官网社区首页改编的 PPT、A4 PDF 与海报样张",
+      "image_size": [
+        1920,
+        1155
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "homepage-style/community-cover-portrait.png",
+      "bytes": 902667,
+      "sha256": "6ba805cb33e964d03683cc6b8260c598b04a5bab1e6b37432586376d5b4f8166",
+      "source_url": "https://www.slashx.cn/",
+      "observed_on": "2026-11-09",
+      "source_kind": "homepage-inspired-layout-asset",
+      "provenance": "依据社区首页点阵、浅紫浅蓝和轨道改编的静态无文字背景",
+      "image_size": [
+        1200,
+        1697
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "homepage-style/community-cover-portrait.svg",
+      "bytes": 1758,
+      "sha256": "9fc50533f423dabb310ac52e5e7bd2a4bc2591fe4da8921bd44db88d0967ac56",
+      "source_url": "https://www.slashx.cn/",
+      "observed_on": "2026-11-09",
+      "source_kind": "homepage-inspired-layout-asset",
+      "provenance": "依据社区首页点阵、浅紫浅蓝和轨道改编的静态无文字背景"
+    },
+    {
+      "path": "homepage-style/community-cover-wide.png",
+      "bytes": 592774,
+      "sha256": "37af53d490b489a67ddb5853035ee5a64853b22ee46af250baf7f88d69952574",
+      "source_url": "https://www.slashx.cn/",
+      "observed_on": "2026-11-09",
+      "source_kind": "homepage-inspired-layout-asset",
+      "provenance": "依据社区首页点阵、浅紫浅蓝和轨道改编的静态无文字背景",
+      "image_size": [
+        1600,
+        900
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "homepage-style/community-cover-wide.svg",
+      "bytes": 1747,
+      "sha256": "e97a12b18fff571a75f55b69ed7d0e2fb28a053c544a50ef1931f5bef24461f1",
+      "source_url": "https://www.slashx.cn/",
+      "observed_on": "2026-11-09",
+      "source_kind": "homepage-inspired-layout-asset",
+      "provenance": "依据社区首页点阵、浅紫浅蓝和轨道改编的静态无文字背景"
+    },
+    {
+      "path": "homepage-style/scenes/cafe-collaboration-fashion-v2.webp",
+      "bytes": 111452,
+      "sha256": "0b457cbd97b15fe86438e04d8499d5b1457b0801209680ad0e4e174b323773f9",
+      "source_url": "https://www.slashx.cn/",
+      "observed_on": "2026-11-09",
+      "source_kind": "site-decorative-scene",
+      "provenance": "SlashX/slashx-next/public/marketing/community/joy/cafe-collaboration-fashion-v2.webp",
+      "image_size": [
+        960,
+        640
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "homepage-style/scenes/community-home-workshop-v1.webp",
+      "bytes": 138486,
+      "sha256": "e342de86eb214524f8f812976774c8feccc616a62ac98e08ef590cfdfd8c381e",
+      "source_url": "https://www.slashx.cn/",
+      "observed_on": "2026-11-09",
+      "source_kind": "site-decorative-scene",
+      "provenance": "SlashX/slashx-next/public/marketing/community/joy/community-home-workshop-v1.webp",
+      "image_size": [
+        1200,
+        800
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "homepage-style/scenes/creative-studio-fashion-v2.webp",
+      "bytes": 81784,
+      "sha256": "c834f5d40d9ce23111ebe84cfc71b047019ce326da575e8af7e6c812f093d3a3",
+      "source_url": "https://www.slashx.cn/",
+      "observed_on": "2026-11-09",
+      "source_kind": "site-decorative-scene",
+      "provenance": "SlashX/slashx-next/public/marketing/community/joy/creative-studio-fashion-v2.webp",
+      "image_size": [
+        960,
+        640
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "homepage-style/scenes/weekend-outdoors-fashion-v2.webp",
+      "bytes": 138088,
+      "sha256": "3462e8f25f804a40569a33e6c365645aa23df5a1c671ce97ebb623172483dd09",
+      "source_url": "https://www.slashx.cn/",
+      "observed_on": "2026-11-09",
+      "source_kind": "site-decorative-scene",
+      "provenance": "SlashX/slashx-next/public/marketing/community/joy/weekend-outdoors-fashion-v2.webp",
+      "image_size": [
+        960,
+        640
+      ],
+      "mode": "RGBA"
+    }
+  ],
+  "local_font_references": [
+    {
+      "path": "fonts/MiSans-Regular.ttf",
+      "bytes": 7924400,
+      "sha256": "7172aa1b5c703780ee12df3fe4c50481dde01f3b125a045a398000a88d032ae5",
+      "provenance": "品牌物料/品牌字体/MiSans-Regular.ttf",
+      "source_kind": "user-supplied"
+    },
+    {
+      "path": "fonts/MiSans-Medium.ttf",
+      "bytes": 7876052,
+      "sha256": "93528275ee67039c1daeb2ef700625bcf72abab2d3f97e1b6afae6273b579fc1",
+      "provenance": "品牌物料/品牌字体/MiSans-Medium.ttf",
+      "source_kind": "user-supplied"
+    },
+    {
+      "path": "fonts/MiSans-Semibold.ttf",
+      "bytes": 7824000,
+      "sha256": "7143f0160b52fa639c464f8dc904f01e1c1d28a6c514dd8d1fb99fcf28886258",
+      "provenance": "品牌物料/品牌字体/MiSans-Semibold.ttf",
+      "source_kind": "user-supplied"
+    },
+    {
+      "path": "fonts/MiSans-Bold.ttf",
+      "bytes": 7804780,
+      "sha256": "250fb5c8d4657f103e332b0b948a995e45f2c159beb8d0528424e2d32ae421be",
+      "provenance": "品牌物料/品牌字体/MiSans-Bold.ttf",
+      "source_kind": "user-supplied"
+    }
+  ]
+}
