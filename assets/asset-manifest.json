@@ -557,6 +557,385 @@
         640
       ],
       "mode": "RGBA"
+    },
+    {
+      "path": "event-signage/kt-boards/K01.png",
+      "bytes": 1256850,
+      "sha256": "cf5f9e2187574b57054882f33696f448822b4e8130b35fc30b8a5687dbbb21f4",
+      "provenance": "20261116-线下沙龙物料设计/Canva原版交付-v001/分件原图/K01.png",
+      "source_kind": "generated-salon-kt-board",
+      "image_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "event-signage/kt-boards/K02.png",
+      "bytes": 1383159,
+      "sha256": "b84034038926a91758ffee72ad9c1a6dadfc2a22ab438610c61a51961f67786a",
+      "provenance": "20261116-线下沙龙物料设计/Canva原版交付-v001/分件原图/K02.png",
+      "source_kind": "generated-salon-kt-board",
+      "image_size": [
+        1779,
+        884
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "event-signage/kt-boards/K03.png",
+      "bytes": 1580342,
+      "sha256": "a915209da8ba377b22fd0a376ba4a1f3a23cd837d9eaff4c9f1cd62d7607b123",
+      "provenance": "20261116-线下沙龙物料设计/Canva原版交付-v001/分件原图/K03.png",
+      "source_kind": "generated-salon-kt-board",
+      "image_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "event-signage/kt-boards/K04.png",
+      "bytes": 1204328,
+      "sha256": "eb60c21521b2880417ce7f13498f58fe51264eaadb39726af03baa129281fc8b",
+      "provenance": "20261116-线下沙龙物料设计/Canva原版交付-v001/分件原图/K04.png",
+      "source_kind": "generated-salon-kt-board",
+      "image_size": [
+        1801,
+        873
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "event-signage/kt-boards/K05.png",
+      "bytes": 1121225,
+      "sha256": "690632a8de8f5af1014a96ae3ccc794a45f1ff98b08f8a3569331a6ccd2fd3cb",
+      "provenance": "20261116-线下沙龙物料设计/Canva原版交付-v001/分件原图/K05.png",
+      "source_kind": "generated-salon-kt-board",
+      "image_size": [
+        1774,
+        887
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "event-signage/kt-boards/K06.png",
+      "bytes": 1388950,
+      "sha256": "61364f261c2937e8cbb8b582300d1d7bb8075608a1f1884cf1c15fb3a3ffb940",
+      "provenance": "20261116-线下沙龙物料设计/Canva原版交付-v001/分件原图/K06.png",
+      "source_kind": "generated-salon-kt-board",
+      "image_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "event-signage/kt-boards/K07.png",
+      "bytes": 1118216,
+      "sha256": "5df7d2240d1079a2f64d08aa4e91e40c4ceaeb7bdba95fd730e9ac2d4851ea12",
+      "provenance": "20261116-线下沙龙物料设计/Canva原版交付-v001/分件原图/K07.png",
+      "source_kind": "generated-salon-kt-board",
+      "image_size": [
+        1774,
+        887
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "event-signage/kt-boards/K08.png",
+      "bytes": 1106234,
+      "sha256": "a8f90a5990a23d693c57b367f8519937aff2bb51c9f7c67182f671ad24355ab9",
+      "provenance": "20261116-线下沙龙物料设计/Canva原版交付-v001/分件原图/K08.png",
+      "source_kind": "generated-salon-kt-board",
+      "image_size": [
+        1774,
+        887
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "event-signage/kt-boards/K09.png",
+      "bytes": 1369418,
+      "sha256": "5e08fea1ff7a9c3a6e4a8b86a265ffbd5f44c3dc1355639b67538168f08315d7",
+      "provenance": "20261116-线下沙龙物料设计/Canva原版交付-v001/分件原图/K09.png",
+      "source_kind": "generated-salon-kt-board",
+      "image_size": [
+        1145,
+        1374
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "event-signage/kt-boards/K10.png",
+      "bytes": 1168400,
+      "sha256": "340cb5c20fba0e42d446eea0ece1977200bbc72b3ac84c52351c718de80bffc4",
+      "provenance": "20261116-线下沙龙物料设计/Canva原版交付-v001/分件原图/K10.png",
+      "source_kind": "generated-salon-kt-board",
+      "image_size": [
+        1199,
+        1312
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "event-signage/kt-boards/K11.png",
+      "bytes": 1388071,
+      "sha256": "f00811db16a9675527ba98ecc20af819c83124203a6bf85d7287854cc70eafa2",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K11.png",
+      "source_kind": "generated-salon-kt-board",
+      "image_size": [
+        1746,
+        901
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "event-signage/kt-boards/K12.png",
+      "bytes": 1420340,
+      "sha256": "13f07c7ad88f64bdad7a0edcf3caf0af0198a9740f524a94f1a5b75ae1611430",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K12.png",
+      "source_kind": "generated-salon-kt-board",
+      "image_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "event-signage/kt-boards/K13.png",
+      "bytes": 1431450,
+      "sha256": "e01d523e26ca038378493ec163bcce1e5b2c24db7df6c1476fc36163c662342a",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K13.png",
+      "source_kind": "generated-salon-kt-board",
+      "image_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "event-signage/kt-boards/K14.png",
+      "bytes": 1308747,
+      "sha256": "91940b4278824812233b3ae68a674199c5cc7f15f7c6abc3f5bc3978d59145ea",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K14.png",
+      "source_kind": "generated-salon-kt-board",
+      "image_size": [
+        1774,
+        887
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "event-signage/kt-boards/K15.png",
+      "bytes": 1541976,
+      "sha256": "24cdb3e99457d8abf51ab5799b9d1a66836d7db067ee847c47bd784914e5ce42",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K15.png",
+      "source_kind": "generated-salon-kt-board",
+      "image_size": [
+        1774,
+        887
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "event-signage/kt-boards/K16.png",
+      "bytes": 1457152,
+      "sha256": "e68eefdcff8f22673f0e27bb6d3e19dc5fa7674ade6b1577eb400c70474bca70",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K16.png",
+      "source_kind": "generated-salon-kt-board",
+      "image_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "event-signage/kt-boards/K17.png",
+      "bytes": 1241121,
+      "sha256": "1bacd71e0fca6f199313df7940d6bb5e364d53a20a0fe11dbbeb33dbc7732cd3",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K17.png",
+      "source_kind": "generated-salon-kt-board",
+      "image_size": [
+        2172,
+        724
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "event-signage/kt-boards/K18.png",
+      "bytes": 1342741,
+      "sha256": "47dfd24ac39f620fb3ddfe27ead00d21aec416f8a486303c357d6a154136d2a2",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K18.png",
+      "source_kind": "generated-salon-kt-board",
+      "image_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "event-signage/kt-boards/K19.png",
+      "bytes": 1447202,
+      "sha256": "0be92bee9974f08cbbcb40b277fb76db5a491ac3e5fe7c30033b6bed87703b49",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K19.png",
+      "source_kind": "generated-salon-kt-board",
+      "image_size": [
+        1774,
+        887
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "event-signage/kt-boards/K20.png",
+      "bytes": 1304611,
+      "sha256": "d93843f5d0247c4caf93bafc0b94ded19df8bdcc10abe56ae537954a7cb5d7ba",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K20.png",
+      "source_kind": "generated-salon-kt-board",
+      "image_size": [
+        1743,
+        902
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "event-signage/kt-boards/K21.png",
+      "bytes": 1552525,
+      "sha256": "846a4022b2c36771f078722ce76e3537e7ae902637e0524ba99ad1560d588aea",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K21.png",
+      "source_kind": "generated-salon-kt-board",
+      "image_size": [
+        1663,
+        945
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "event-signage/kt-boards/K22.png",
+      "bytes": 1419996,
+      "sha256": "69a18573fd79fadec6e4d000223fe00e551c43c614c38ae0ed530dfe84e5d10b",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K22.png",
+      "source_kind": "generated-salon-kt-board",
+      "image_size": [
+        1774,
+        887
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "event-signage/kt-boards/K23.png",
+      "bytes": 1341599,
+      "sha256": "a16d1b830ce0820f3961855fe4656f98e2723922565fcd4be48ead52bb51f92e",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K23.png",
+      "source_kind": "generated-salon-kt-board",
+      "image_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "event-signage/kt-boards/K24.png",
+      "bytes": 1403538,
+      "sha256": "32fe0d4ce27f804b9102547959ddab2299201e2cd3bf5739b8c0e3a7be138d91",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K24.png",
+      "source_kind": "generated-salon-kt-board",
+      "image_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "event-signage/kt-boards/K25.png",
+      "bytes": 1422365,
+      "sha256": "13057a8b696a8866b362b41dbb2935c5dc80306035fa7805586697ba6456ad86",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K25.png",
+      "source_kind": "generated-salon-kt-board",
+      "image_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "event-signage/kt-boards/K26.png",
+      "bytes": 1361373,
+      "sha256": "4e3d83f33a20d382ae8c8f7a404aff6399de06f4984834c7746de2e787ffb41b",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K26.png",
+      "source_kind": "generated-salon-kt-board",
+      "image_size": [
+        1774,
+        887
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "event-signage/kt-boards/K27.png",
+      "bytes": 1339200,
+      "sha256": "75919fcde19aacd68bac5ee900fbc2385d0e89ea5b4f30e9053efb08743a5273",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K27.png",
+      "source_kind": "generated-salon-kt-board",
+      "image_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "event-signage/kt-boards/K28.png",
+      "bytes": 1379314,
+      "sha256": "ed972e7f428b2901a97c5fb56e3a219b7692d89324bf7c74e99d49065a45cb29",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K28.png",
+      "source_kind": "generated-salon-kt-board",
+      "image_size": [
+        1752,
+        897
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "event-signage/kt-boards/K29.png",
+      "bytes": 1510602,
+      "sha256": "06c2c14bef7be90008e4faebc2dc91192af1a02e6fcb3307933976b81556bd21",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K29.png",
+      "source_kind": "generated-salon-kt-board",
+      "image_size": [
+        1774,
+        887
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "event-signage/kt-boards/K30.png",
+      "bytes": 1356296,
+      "sha256": "45b449659fbbf97051c5ad1da21f885499bc22da716c3a110bd9e8685375170b",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K30.png",
+      "source_kind": "generated-salon-kt-board",
+      "image_size": [
+        1672,
+        941
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "path": "event-signage/kt-boards/catalog.json",
+      "bytes": 15804,
+      "sha256": "09db1689480637164d69d5b6b8855ac31d24838938fb20ed5498642c109546e2",
+      "source_kind": "kt-board-resource-catalog",
+      "provenance": "K01–K30原图与原单件清单整理（2026-11-18）"
+    },
+    {
+      "path": "event-signage/kt-boards/overview.jpg",
+      "bytes": 779210,
+      "sha256": "9e041555ca34e946d1418e77be4295763729ea1171256fbd2728eff31b1f754b",
+      "source_kind": "kt-board-resource-overview",
+      "provenance": "K01–K30原图与原单件清单整理（2026-11-18）",
+      "image_size": [
+        1800,
+        1980
+      ],
+      "mode": "RGB"
     }
   ],
   "local_font_references": [

@@ -1,0 +1,556 @@
+{
+  "schema_version": 1,
+  "title": "超级斜杠AI · 30款沙龙KT板资源",
+  "source_date": "2026-11-16",
+  "included_on": "2026-11-18",
+  "path_base": "assets/",
+  "count": 30,
+  "notes": [
+    "K01–K10来自原版图像交付，K11–K30来自追加20款；PNG保持源文件字节、透明通道和像素尺寸。",
+    "historical_size_mm为原单件清单记录的建议成品宽高，PNG像素画布不等于切割轮廓。",
+    "本次为资源入库；不新增审美终审或印刷打样通过记录。",
+    "实际印刷需配合相应刀线、出血与材质打样；本资源库中的PNG不是完整印刷制作包。"
+  ],
+  "items": [
+    {
+      "code": "K01",
+      "name": "AI搭子集合",
+      "path": "event-signage/kt-boards/K01.png",
+      "image_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "has_transparency": true,
+      "historical_size_mm": [
+        450,
+        295
+      ],
+      "bytes": 1256850,
+      "sha256": "cf5f9e2187574b57054882f33696f448822b4e8130b35fc30b8a5687dbbb21f4",
+      "provenance": "20261116-线下沙龙物料设计/Canva原版交付-v001/分件原图/K01.png"
+    },
+    {
+      "code": "K02",
+      "name": "让AI帮我干点活",
+      "path": "event-signage/kt-boards/K02.png",
+      "image_size": [
+        1779,
+        884
+      ],
+      "mode": "RGBA",
+      "has_transparency": true,
+      "historical_size_mm": [
+        500,
+        215
+      ],
+      "bytes": 1383159,
+      "sha256": "b84034038926a91758ffee72ad9c1a6dadfc2a22ab438610c61a51961f67786a",
+      "provenance": "20261116-线下沙龙物料设计/Canva原版交付-v001/分件原图/K02.png"
+    },
+    {
+      "code": "K03",
+      "name": "今天又多会一招",
+      "path": "event-signage/kt-boards/K03.png",
+      "image_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "has_transparency": true,
+      "historical_size_mm": [
+        450,
+        275
+      ],
+      "bytes": 1580342,
+      "sha256": "a915209da8ba377b22fd0a376ba4a1f3a23cd837d9eaff4c9f1cd62d7607b123",
+      "provenance": "20261116-线下沙龙物料设计/Canva原版交付-v001/分件原图/K03.png"
+    },
+    {
+      "code": "K04",
+      "name": "少点重复多点创造",
+      "path": "event-signage/kt-boards/K04.png",
+      "image_size": [
+        1801,
+        873
+      ],
+      "mode": "RGBA",
+      "has_transparency": true,
+      "historical_size_mm": [
+        500,
+        215
+      ],
+      "bytes": 1204328,
+      "sha256": "eb60c21521b2880417ce7f13498f58fe51264eaadb39726af03baa129281fc8b",
+      "provenance": "20261116-线下沙龙物料设计/Canva原版交付-v001/分件原图/K04.png"
+    },
+    {
+      "code": "K05",
+      "name": "这事能自动化吗",
+      "path": "event-signage/kt-boards/K05.png",
+      "image_size": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "has_transparency": true,
+      "historical_size_mm": [
+        480,
+        195
+      ],
+      "bytes": 1121225,
+      "sha256": "690632a8de8f5af1014a96ae3ccc794a45f1ff98b08f8a3569331a6ccd2fd3cb",
+      "provenance": "20261116-线下沙龙物料设计/Canva原版交付-v001/分件原图/K05.png"
+    },
+    {
+      "code": "K06",
+      "name": "我有一个AI点子",
+      "path": "event-signage/kt-boards/K06.png",
+      "image_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "has_transparency": true,
+      "historical_size_mm": [
+        450,
+        305
+      ],
+      "bytes": 1388950,
+      "sha256": "61364f261c2937e8cbb8b582300d1d7bb8075608a1f1884cf1c15fb3a3ffb940",
+      "provenance": "20261116-线下沙龙物料设计/Canva原版交付-v001/分件原图/K06.png"
+    },
+    {
+      "code": "K07",
+      "name": "带着问题来",
+      "path": "event-signage/kt-boards/K07.png",
+      "image_size": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "has_transparency": true,
+      "historical_size_mm": [
+        480,
+        210
+      ],
+      "bytes": 1118216,
+      "sha256": "5df7d2240d1079a2f64d08aa4e91e40c4ceaeb7bdba95fd730e9ac2d4851ea12",
+      "provenance": "20261116-线下沙龙物料设计/Canva原版交付-v001/分件原图/K07.png"
+    },
+    {
+      "code": "K08",
+      "name": "带着灵感走",
+      "path": "event-signage/kt-boards/K08.png",
+      "image_size": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "has_transparency": true,
+      "historical_size_mm": [
+        480,
+        220
+      ],
+      "bytes": 1106234,
+      "sha256": "a8f90a5990a23d693c57b367f8519937aff2bb51c9f7c67182f671ad24355ab9",
+      "provenance": "20261116-线下沙龙物料设计/Canva原版交付-v001/分件原图/K08.png"
+    },
+    {
+      "code": "K09",
+      "name": "Codex标志",
+      "path": "event-signage/kt-boards/K09.png",
+      "image_size": [
+        1145,
+        1374
+      ],
+      "mode": "RGBA",
+      "has_transparency": true,
+      "historical_size_mm": [
+        400,
+        500
+      ],
+      "bytes": 1369418,
+      "sha256": "5e08fea1ff7a9c3a6e4a8b86a265ffbd5f44c3dc1355639b67538168f08315d7",
+      "provenance": "20261116-线下沙龙物料设计/Canva原版交付-v001/分件原图/K09.png"
+    },
+    {
+      "code": "K10",
+      "name": "WorkBuddy标志",
+      "path": "event-signage/kt-boards/K10.png",
+      "image_size": [
+        1199,
+        1312
+      ],
+      "mode": "RGBA",
+      "has_transparency": true,
+      "historical_size_mm": [
+        400,
+        485
+      ],
+      "bytes": 1168400,
+      "sha256": "340cb5c20fba0e42d446eea0ece1977200bbc72b3ac84c52351c718de80bffc4",
+      "provenance": "20261116-线下沙龙物料设计/Canva原版交付-v001/分件原图/K10.png"
+    },
+    {
+      "code": "K11",
+      "name": "脑洞已开AI跟上",
+      "path": "event-signage/kt-boards/K11.png",
+      "image_size": [
+        1746,
+        901
+      ],
+      "mode": "RGBA",
+      "has_transparency": true,
+      "historical_size_mm": [
+        500,
+        245
+      ],
+      "bytes": 1388071,
+      "sha256": "f00811db16a9675527ba98ecc20af819c83124203a6bf85d7287854cc70eafa2",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K11.png"
+    },
+    {
+      "code": "K12",
+      "name": "把想法变成作品",
+      "path": "event-signage/kt-boards/K12.png",
+      "image_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "has_transparency": true,
+      "historical_size_mm": [
+        450,
+        290
+      ],
+      "bytes": 1420340,
+      "sha256": "13f07c7ad88f64bdad7a0edcf3caf0af0198a9740f524a94f1a5b75ae1611430",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K12.png"
+    },
+    {
+      "code": "K13",
+      "name": "AI帮忙我来把关",
+      "path": "event-signage/kt-boards/K13.png",
+      "image_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "has_transparency": true,
+      "historical_size_mm": [
+        450,
+        290
+      ],
+      "bytes": 1431450,
+      "sha256": "e01d523e26ca038378493ec163bcce1e5b2c24db7df6c1476fc36163c662342a",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K13.png"
+    },
+    {
+      "code": "K14",
+      "name": "懂点AI多点可能",
+      "path": "event-signage/kt-boards/K14.png",
+      "image_size": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "has_transparency": true,
+      "historical_size_mm": [
+        500,
+        235
+      ],
+      "bytes": 1308747,
+      "sha256": "91940b4278824812233b3ae68a674199c5cc7f15f7c6abc3f5bc3978d59145ea",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K14.png"
+    },
+    {
+      "code": "K15",
+      "name": "先试一试再说不可能",
+      "path": "event-signage/kt-boards/K15.png",
+      "image_size": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "has_transparency": true,
+      "historical_size_mm": [
+        500,
+        230
+      ],
+      "bytes": 1541976,
+      "sha256": "24cdb3e99457d8abf51ab5799b9d1a66836d7db067ee847c47bd784914e5ce42",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K15.png"
+    },
+    {
+      "code": "K16",
+      "name": "今天也在认真折腾AI",
+      "path": "event-signage/kt-boards/K16.png",
+      "image_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "has_transparency": true,
+      "historical_size_mm": [
+        450,
+        270
+      ],
+      "bytes": 1457152,
+      "sha256": "e68eefdcff8f22673f0e27bb6d3e19dc5fa7674ade6b1577eb400c70474bca70",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K16.png"
+    },
+    {
+      "code": "K17",
+      "name": "灵感碰撞中",
+      "path": "event-signage/kt-boards/K17.png",
+      "image_size": [
+        2172,
+        724
+      ],
+      "mode": "RGBA",
+      "has_transparency": true,
+      "historical_size_mm": [
+        500,
+        155
+      ],
+      "bytes": 1241121,
+      "sha256": "1bacd71e0fca6f199313df7940d6bb5e364d53a20a0fe11dbbeb33dbc7732cd3",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K17.png"
+    },
+    {
+      "code": "K18",
+      "name": "我的AI搭子已上线",
+      "path": "event-signage/kt-boards/K18.png",
+      "image_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "has_transparency": true,
+      "historical_size_mm": [
+        450,
+        305
+      ],
+      "bytes": 1342741,
+      "sha256": "47dfd24ac39f620fb3ddfe27ead00d21aec416f8a486303c357d6a154136d2a2",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K18.png"
+    },
+    {
+      "code": "K19",
+      "name": "重复的活交给AI",
+      "path": "event-signage/kt-boards/K19.png",
+      "image_size": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "has_transparency": true,
+      "historical_size_mm": [
+        500,
+        230
+      ],
+      "bytes": 1447202,
+      "sha256": "0be92bee9974f08cbbcb40b277fb76db5a491ac3e5fe7c30033b6bed87703b49",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K19.png"
+    },
+    {
+      "code": "K20",
+      "name": "提个好问题解锁新思路",
+      "path": "event-signage/kt-boards/K20.png",
+      "image_size": [
+        1743,
+        902
+      ],
+      "mode": "RGBA",
+      "has_transparency": true,
+      "historical_size_mm": [
+        500,
+        260
+      ],
+      "bytes": 1304611,
+      "sha256": "d93843f5d0247c4caf93bafc0b94ded19df8bdcc10abe56ae537954a7cb5d7ba",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K20.png"
+    },
+    {
+      "code": "K21",
+      "name": "同频的人在这里相遇",
+      "path": "event-signage/kt-boards/K21.png",
+      "image_size": [
+        1663,
+        945
+      ],
+      "mode": "RGBA",
+      "has_transparency": true,
+      "historical_size_mm": [
+        450,
+        255
+      ],
+      "bytes": 1552525,
+      "sha256": "846a4022b2c36771f078722ce76e3537e7ae902637e0524ba99ad1560d588aea",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K21.png"
+    },
+    {
+      "code": "K22",
+      "name": "今天的主角是行动力",
+      "path": "event-signage/kt-boards/K22.png",
+      "image_size": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "has_transparency": true,
+      "historical_size_mm": [
+        500,
+        230
+      ],
+      "bytes": 1419996,
+      "sha256": "69a18573fd79fadec6e4d000223fe00e551c43c614c38ae0ed530dfe84e5d10b",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K22.png"
+    },
+    {
+      "code": "K23",
+      "name": "好奇心永不下线",
+      "path": "event-signage/kt-boards/K23.png",
+      "image_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "has_transparency": true,
+      "historical_size_mm": [
+        450,
+        300
+      ],
+      "bytes": 1341599,
+      "sha256": "a16d1b830ce0820f3961855fe4656f98e2723922565fcd4be48ead52bb51f92e",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K23.png"
+    },
+    {
+      "code": "K24",
+      "name": "一起动手一起进步",
+      "path": "event-signage/kt-boards/K24.png",
+      "image_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "has_transparency": true,
+      "historical_size_mm": [
+        450,
+        260
+      ],
+      "bytes": 1403538,
+      "sha256": "32fe0d4ce27f804b9102547959ddab2299201e2cd3bf5739b8c0e3a7be138d91",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K24.png"
+    },
+    {
+      "code": "K25",
+      "name": "我有需求也有脑洞",
+      "path": "event-signage/kt-boards/K25.png",
+      "image_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "has_transparency": true,
+      "historical_size_mm": [
+        450,
+        290
+      ],
+      "bytes": 1422365,
+      "sha256": "13057a8b696a8866b362b41dbb2935c5dc80306035fa7805586697ba6456ad86",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K25.png"
+    },
+    {
+      "code": "K26",
+      "name": "人类负责创意AI负责助力",
+      "path": "event-signage/kt-boards/K26.png",
+      "image_size": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "has_transparency": true,
+      "historical_size_mm": [
+        500,
+        215
+      ],
+      "bytes": 1361373,
+      "sha256": "4e3d83f33a20d382ae8c8f7a404aff6399de06f4984834c7746de2e787ffb41b",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K26.png"
+    },
+    {
+      "code": "K27",
+      "name": "AI实战派",
+      "path": "event-signage/kt-boards/K27.png",
+      "image_size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "has_transparency": true,
+      "historical_size_mm": [
+        450,
+        290
+      ],
+      "bytes": 1339200,
+      "sha256": "75919fcde19aacd68bac5ee900fbc2385d0e89ea5b4f30e9053efb08743a5273",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K27.png"
+    },
+    {
+      "code": "K28",
+      "name": "和AI一起创造点什么",
+      "path": "event-signage/kt-boards/K28.png",
+      "image_size": [
+        1752,
+        897
+      ],
+      "mode": "RGBA",
+      "has_transparency": true,
+      "historical_size_mm": [
+        500,
+        250
+      ],
+      "bytes": 1379314,
+      "sha256": "ed972e7f428b2901a97c5fb56e3a219b7692d89324bf7c74e99d49065a45cb29",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K28.png"
+    },
+    {
+      "code": "K29",
+      "name": "Codex开工啦",
+      "path": "event-signage/kt-boards/K29.png",
+      "image_size": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "has_transparency": true,
+      "historical_size_mm": [
+        500,
+        240
+      ],
+      "bytes": 1510602,
+      "sha256": "06c2c14bef7be90008e4faebc2dc91192af1a02e6fcb3307933976b81556bd21",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K29.png"
+    },
+    {
+      "code": "K30",
+      "name": "WorkBuddy一起搭把手",
+      "path": "event-signage/kt-boards/K30.png",
+      "image_size": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "has_transparency": true,
+      "historical_size_mm": [
+        500,
+        255
+      ],
+      "bytes": 1356296,
+      "sha256": "45b449659fbbf97051c5ad1da21f885499bc22da716c3a110bd9e8685375170b",
+      "provenance": "20261116-线下沙龙物料设计/KT板追加20款-v001/生成原图/K30.png"
+    }
+  ]
+}

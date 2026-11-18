@@ -1,6 +1,6 @@
 ---
 name: superslash-brand
-description: "为超级斜杠AI制作或改版品牌文档、方案、报告、课程资料、演示和海报，使用定稿 Logo、MiSans 和配套素材并验证成品。用户要求超级斜杠品牌风格、指定旧标或沿用已认可课程材料风格时使用。"
+description: "为超级斜杠AI制作或改版品牌文档、方案、报告、课程资料、演示、海报和线下活动物料，使用定稿 Logo、MiSans 和配套素材并验证成品。用户要求超级斜杠品牌风格、指定旧标或沿用已认可课程材料风格时使用。"
 ---
 
 # 超级斜杠品牌
@@ -15,6 +15,7 @@ description: "为超级斜杠AI制作或改版品牌文档、方案、报告、�
    - A4 Word、PDF、手册、报告：[A4 文档](references/a4-document.md)。
    - 16:9 PPT、汇报型 PDF、其他比例演示：[演示文稿](references/presentation.md)。
    - 独立海报、手机长图：[海报](references/posters.md)。
+   - 沙龙 KT 板、合影手持牌：[30 款 KT 板资源](references/kt-boards.md)，按编号复用既有 PNG。
    - 课程或含商业事实的材料：[内容来源](references/content-sources.md)。
 4. 确定内容结构与版式，再生成文件。完整资料采用封面、正文、尾页；正文保留品牌页眉页脚或演示页脚。单页、短信函件、原模板等按实际使用场景适配。
 5. 按 [验收与交付](references/qa-and-delivery.md) 渲染、检查、修复，并保留可维护的源文件。

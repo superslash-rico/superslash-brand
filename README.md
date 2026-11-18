@@ -6,6 +6,13 @@
 - [官网首页风格规则](references/homepage-style.md)
 - [PPT、PDF 和海报应用样张](assets/homepage-style/application-reference.png)
 - [品牌配置](assets/brand.json)
+- [30 款沙龙 KT 板资源与尺寸目录](references/kt-boards.md)
+
+## KT 板资源
+
+收录 K01–K30 共 30 张既有透明 PNG 原图，包含原版 10 款、追加 20 款以及 Codex / WorkBuddy 主题。图片、历史建议尺寸、像素、来源和校验信息见[资源目录](references/kt-boards.md)。
+
+![30款KT板资源总览](assets/event-signage/kt-boards/overview.jpg)
 
 ## 安装与核验
 

@@ -1,4 +1,4 @@
 interface:
   display_name: "超级斜杠品牌"
-  short_description: "用超级斜杠AI定稿标志与品牌规范制作文档、演示和海报"
+  short_description: "用超级斜杠AI定稿标志与品牌规范制作文档、演示、海报和线下物料"
   default_prompt: "使用 $superslash-brand，参考官网首页风格制作超级斜杠AI材料，并输出所需格式。"

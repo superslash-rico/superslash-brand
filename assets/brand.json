@@ -188,5 +188,12 @@
       "outdoors": "homepage-style/scenes/weekend-outdoors-fashion-v2.webp",
       "cafe": "homepage-style/scenes/cafe-collaboration-fashion-v2.webp"
     }
+  },
+  "event_signage": {
+    "kt_boards": {
+      "count": 30,
+      "catalog": "event-signage/kt-boards/catalog.json",
+      "overview": "event-signage/kt-boards/overview.jpg"
+    }
   }
 }
